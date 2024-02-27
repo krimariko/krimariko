@@ -1,6 +1,6 @@
 # Hi, I'm Kristi 👋
 
-Currently getting back to my writing roots. I'm moving into technical writing after returning from a parenting career break. Previously worked at [education.com](https://www.education.com/) as a product manager.
+Currently getting back to my writing roots. I'm moving into technical writing after returning from a parenting career break. Previously a product manager at [education.com](https://www.education.com/).
 
 <!--
 Here are some ideas to get you started:
