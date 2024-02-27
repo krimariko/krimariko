@@ -1,8 +1,8 @@
-### Hi there 👋
+# Hi, I'm Kristi 👋
+
+Currently getting back to my writing roots. I'm moving into technical writing after returning from a parenting career break. Previously I worked at [education.com](https://www.education.com/) as a product manager.
 
 <!--
-**krimariko/krimariko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
